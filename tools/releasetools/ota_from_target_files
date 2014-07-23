@@ -478,11 +478,7 @@ else if get_stage("%(bcb_dev)s", "stage") == "3/3" then
   device_specific.FullOTA_InstallBegin()
 
   script.ShowProgress(0.5, 0)
-  script.Print("  ____   ____     _____ _____    _____  ")
-  script.Print(" /    \ /  _ \'  /     \\__  \  /     \ ")
-  script.Print("|   |  (  <_> ) |  Y Y  \/ __ \|  Y Y  \")
-  script.Print("|___|  /\____/  |__|_|  (____  /__|_|  /")
-  script.Print("     \/               \/     \/      \/ ")
+  script.Print("      No Ma'am                          ")
   script.Print("                                 by Cemo")
   script.Print("                                        ")
 
